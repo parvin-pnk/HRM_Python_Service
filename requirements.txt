@@ -1,0 +1,27 @@
+
+fastapi
+uvicorn
+pydantic>=2.0
+python-json-logger  
+httpx                
+
+pdfminer.six    
+python-docx
+
+spacy
+#python -m spacy download en_core_web_sm
+
+sentence-transformers
+scikit-learn
+
+pytesseract
+pillow
+docx2txt
+
+python-multipart
+numpy
+
+
+python-dotenv 
+
+xgboost #insight engineer
